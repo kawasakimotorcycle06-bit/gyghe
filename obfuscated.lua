@@ -1,4 +1,3 @@
-
 local ionbvleQ = debug and debug.getinfo or function() end
 local KYSPdeYV = os and os.clock or function() return 0 end
 if SKqkVHHG() then error("Debug detected") end
